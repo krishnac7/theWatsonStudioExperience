@@ -1,4 +1,4 @@
-Please Proceed to loanEligibilityWML Notebook for understanding how to start consuming WML Service
+Please Proceed to [loanEligibilityWML](notebooks/loanEligibilityWML.ipynb) Notebook for understanding how to start consuming WML Service
 
 Problem statement: find out if a user is either eligible or not eligible for loan ,given the following data
 
