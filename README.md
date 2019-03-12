@@ -1,6 +1,6 @@
 This Repository is a learning path to everything watson studio
 
-#Creating a watson Studio Instance:
+# Creating a watson Studio Instance:
 
 1. Register for IBM Cloud
 2. Goto catalog and search for Watson Studio, listed under AI
