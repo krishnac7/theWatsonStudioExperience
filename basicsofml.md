@@ -19,14 +19,14 @@ Tested on Python 2.7 with spark 2.0
 
 # Classification
 
-* **Classification classification-12Liner** consists of a shortened version of [IRIS](https://en.wikipedia.org/wiki/Iris_flower_data_set) classifier with no evaluation
-* **Classification Simple** outputs a related image basing on the classification of the flower
-* **Classification_Evaluation** contains the Complete version of Basic IRIS data classification along with performance evaluation and algorithm comparision
-* **MNIST Simple** classifies random test images of hand written digits from [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) into respective classes of 0-9
+* **[Classification classification-12Liner](notebooks/classification_10Liner.ipynb)** consists of a shortened version of [IRIS](https://en.wikipedia.org/wiki/Iris_flower_data_set) classifier with no evaluation
+* **[Classification Simple](notebooks/classification%20simple.ipynb)** outputs a related image basing on the classification of the flower
+* **[Classification_Evaluation](notebooks/classification_Evaluation.ipynb)** contains the Complete version of Basic IRIS data classification along with performance evaluation and algorithm comparision
+* **[MNIST Simple](notebooks/MNIST%20Simple.ipynb)** classifies random test images of hand written digits from [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) into respective classes of 0-9
 
 # Regression
-* **Regression_realestate** uses Linear regression to predict Real estate prices based on a dataset included in **RealestateData.csv**
-* **Regression_tv** predicts which of the two Tv series flash or Arrow gets most veiwership based on the data from **veiwershipData.csv**
+* **[Regression_realestate](notebooks/Regression_realestate.ipynb)** uses Linear regression to predict Real estate prices based on a dataset included in **RealestateData.csv**
+* **[Regression_tv](notebooks/Regression_tv.ipynb)** predicts which of the two Tv series flash or Arrow gets most veiwership based on the data from **veiwershipData.csv**
 
 # Importing Notebooks onto DSX
 * Navigate to [https://datascience.ibm.com/](https://datascience.ibm.com/) and Login with your IBM ID
