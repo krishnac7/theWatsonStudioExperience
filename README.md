@@ -23,7 +23,7 @@ Where to next?
 * Build a shopping cart based recommendation engine
 
 [Using Watson Model Builder](modelBuilder.md)
-* Deploy heart attack prediction model
+* Deploy heart failure prediction model
 
 [Deep learning on Watson Studio](reverseim.md)
 *  Building a reverse image search engine
