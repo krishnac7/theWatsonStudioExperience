@@ -25,7 +25,7 @@ Step 1: Login to your [DSX account](https://dataplatform.ibm.com/) and click on 
   
  ![alt text](res/image6.png)
  
-   Step 7: Now click on add dataset and upload the patientdataV6.csv file
+   Step 7: Now click on add dataset and upload the [patientdataV6.csv](data/patientdataV6.csv) file
 
  Step 8: Select the added dataset and click next
  
